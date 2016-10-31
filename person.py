@@ -4,7 +4,7 @@ A person object
 import uuid
 class Person(object):
 
-	def __init__(self,name='',gender='',dob='',county=''):
+	def __init__(self, name='', gender='', dob='', county=''):
 		self.__uuid = uuid.uuid4()
 		self.__name = name
 		self.__gender = gender

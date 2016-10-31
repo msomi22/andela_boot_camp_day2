@@ -17,7 +17,8 @@ if __name__ == '__main__':
 	emp.setGender('Male')
 	emp.setDob('31-05-1990')
 	emp.setCounty('Tharaka Nithi')
-	print emp
+	print emp 
+	
 
     #Student Object 
 	student = Student('100','Form 2 N') 
@@ -26,8 +27,9 @@ if __name__ == '__main__':
 	student.setGender('Female')
 	student.setDob('16-07-1990')
 	student.setCounty('Meru') 
+	print student 
 	
-	print student
+
 	 		 
 
 
